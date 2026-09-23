@@ -1,1 +1,1 @@
-bucket_name = "acme-dev-123-demo-bucket"   # must be globally unique
+bucket_name = "acme-dev-123-demo-bucket"
