@@ -1,1 +1,1 @@
-bucket_name = "acme-dev-123-demo-bucket"
+bucket_name = "oidc-test-demo-bucket"
