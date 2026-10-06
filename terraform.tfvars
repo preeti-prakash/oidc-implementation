@@ -1,1 +1,1 @@
-bucket_name = "oidc-test-demo-bucket"
+bucket_name = "test-oidc-implementation-bucket"
