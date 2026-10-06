@@ -1,1 +1,1 @@
-bucket_name = "test-oidc-implementation-bucket"
+bucket_name = "test-oidc-implementation-wif"
